@@ -1,0 +1,59 @@
+header{
+    background-color: rgb(85, 200, 162);
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    margin-top: -10;
+}
+.tiger{
+    height: 100%;
+}
+.main{
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    border-radius: 20px;
+}
+.one{
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+.two{
+    position: absolute;
+    top: 450px;
+    left: 10px;
+}
+.three{
+    position: absolute;
+    top: 800px;
+    left: 10px;
+
+}
+.four{
+    position: absolute;
+    top: 1150px;
+    left: 10px;
+
+}
+.five{
+    position: absolute;
+    right: 10px;
+    top: 100px;
+}
+.six{
+    position: absolute;
+    right: 10px;
+    top: 450px;
+}
+.seven{
+    position: absolute;
+    right: 10px;
+    top: 800px;
+}
+.eight{
+    position: absolute;
+    top: 1150px;
+    right: 10px;
+
+}
